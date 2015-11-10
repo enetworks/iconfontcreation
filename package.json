@@ -1,0 +1,19 @@
+{
+  "name": "fontmake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-consolidate": "^0.1.2",
+    "gulp-iconfont": "^5.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-watch": "^4.3.5",
+    "lodash": "^3.10.1"
+  }
+}

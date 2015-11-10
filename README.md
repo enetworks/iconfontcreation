@@ -1,6 +1,10 @@
 # iconfontcreation
 アイコンフォント作成のGulpセット
 
+## サンプル
+
+[enwfont](http://enetworks.github.io/iconfontcreation/dest/sample.html)
+
 ## 参考
 
 - [gulpでWebFont作成を自動化 | Web雑記帳](http://atsu666.com/entry-78.html)
